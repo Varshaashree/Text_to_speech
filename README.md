@@ -1,19 +1,19 @@
-# Hello World
+# Text-to-Speech Flutter Example
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A simple Flutter application that demonstrates text-to-speech functionality using the `text_to_speech` package. Users can input text, adjust parameters like volume, rate, and pitch, and select different languages and voices for speech synthesis.
+
+## Features
+
+- Input text through a text field.
+- Adjust volume, speech rate, and pitch using sliders.
+- Select from available languages and voices.
+- Play, pause, stop, and resume speech.
 
 ## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Flutter SDK
+- An IDE (like Android Studio, Visual Studio Code, etc.)
+- A physical device or emulator to run the app.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
